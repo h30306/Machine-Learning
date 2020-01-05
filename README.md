@@ -3,7 +3,7 @@ Machine Learning model I wrote before and little project I have done
 * CNN Model
   * [CNN for face recognition](https://github.com/h30306/Machine-Learning/tree/master/CNN)
 * LSTM Model
-  * [key word prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/IF.Lab關鍵字預測模組.ipynb)
+  * [article key word prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/IF.Lab關鍵字預測模組.ipynb)
   * [LSTM for binary-classification](https://github.com/h30306/Machine-Learning/blob/master/LSTM/LSTM_Binary.py)
   * [Airlines passenger prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/airline.ipynb)
   * [IMDB prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/imdb_lstm.ipynb)
