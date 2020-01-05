@@ -5,8 +5,8 @@ Machine Learning model I wrote before and little project I have done
 * LSTM Model
   * [article key word prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/IF.Lab關鍵字預測模組.ipynb)
   * [LSTM for binary-classification](https://github.com/h30306/Machine-Learning/blob/master/LSTM/LSTM_Binary.py)
-  * [Airlines passenger prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/airline.ipynb)
-  * [IMDB prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/imdb_lstm.ipynb)
+  * [Airlines passenger amount prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/airline.ipynb)
+  * [IMDB movie rate prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/imdb_lstm.ipynb)
 * Project
   * [Airbnb New User Booking](https://github.com/h30306/Machine-Learning/blob/master/ML_project/Airbnb.ipynb)
   * [Credit prediction by ML method(RF,KNN,Ensemble)](https://github.com/h30306/Machine-Learning/blob/master/ML_project/KNN.ipynb)
