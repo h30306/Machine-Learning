@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning model I wrote
+Machine Learning model I wrote before and little project I have done
 * CNN Model
   * [CNN for face recognition](https://github.com/h30306/Machine-Learning/tree/master/CNN)
 * LSTM Model
