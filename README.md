@@ -8,7 +8,8 @@
   * [Airlines passenger amount prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/airline.ipynb)
   * [IMDB movie rate prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/imdb_lstm.ipynb)
 * Project
-  * [Airbnb New User Booking](https://github.com/h30306/Machine-Learning/blob/master/ML_project/Airbnb.ipynb)
+  * [Airbnb New User Booking using 
+Hierarchical XGBoost Model](https://github.com/h30306/Machine-Learning/blob/master/ML_project/Airbnb.ipynb)
   * [Credit prediction by ML method(RF,KNN,Ensemble)](https://github.com/h30306/Machine-Learning/blob/master/ML_project/KNN.ipynb)
   * [Post return prediction using D-tree](https://github.com/h30306/Machine-Learning/blob/master/ML_project/d-tree.ipynb)
   * [CNN digit recognition](https://github.com/h30306/Machine-Learning/blob/master/ML_project/digit%20recognition%20.ipynb)
