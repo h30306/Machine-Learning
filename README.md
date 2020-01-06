@@ -16,4 +16,4 @@ Hierarchical XGBoost Model](https://github.com/h30306/Machine-Learning/blob/mast
   * [CNN digit recognition](https://github.com/h30306/Machine-Learning/blob/master/ML_project/digit%20recognition%20.ipynb)
   * [Creditability prediction using ensemble method](https://github.com/h30306/Machine-Learning/blob/master/ML_project/sklearn.ipynb)(Classification for Information security)
   * [titanic survival prediction](https://github.com/h30306/Machine-Learning/blob/master/ML_project/titanic.ipynb)
-  * [Linear Regression for Taipei house price prediction](https://github.com/h30306/Machine-Learning/blob/master/ML_project/線性迴歸預測房價%20台北市.ipynb)
+  * [Linear Regression for Taipei house pricing prediction](https://github.com/h30306/Machine-Learning/blob/master/ML_project/線性迴歸預測房價%20台北市.ipynb)
