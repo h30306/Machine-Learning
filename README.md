@@ -1,6 +1,7 @@
 # Machine-Learning
 > Machine Learning model I wrote before and little project I have done, Project means the self-learning content
 * CNN Model
+> Model in Financial Cognition Project!
   * [CNN for face recognition](https://github.com/h30306/Machine-Learning/tree/master/CNN)
 * LSTM Model
   * [article key word prediction](https://github.com/h30306/Machine-Learning/blob/master/LSTM/IF.Lab關鍵字預測模組.ipynb)
